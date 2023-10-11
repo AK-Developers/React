@@ -1,3 +1,5 @@
+//We can use different functions to render JSX components.
+//The function name should start with capital letter to recognise is as the HTML element.
 function Header() {
     return (
         <header>
