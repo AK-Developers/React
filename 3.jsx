@@ -42,8 +42,8 @@ function Header() {
   
   function Main() {
     const mainStyle = {
-      padding: '20px',
-      textAlign: 'center',
+        padding: '20px',
+        textAlign: 'center',
     };
   
     return (
